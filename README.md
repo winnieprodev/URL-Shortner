@@ -6,9 +6,9 @@ To run the project on a localhost, a MongoDB should be installed on the machine.
 
 After cloning the project and installing all the node modules, the app can be executed by simply running the command `npm run devStart`
 
-## Used modules or libraries
+## Modules and Libraries used
 
-[ExpressJS]https://expressjs.com/
+[ExpressJS](https://expressjs.com/)
 Mongoose
 ShortId
 Bootstrap 5.0
