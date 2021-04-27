@@ -8,9 +8,9 @@ After cloning the project and installing all the node modules, the app can be ex
 
 ## Modules and Libraries used
 
-[ExpressJS](https://expressjs.com/)
-[Mongoose](https://mongoosejs.com/)
-[ShortId](https://www.npmjs.com/package/shortid)
-[Bootstrap 5.0](https://getbootstrap.com/)
-[Ejs](https://www.npmjs.com/package/ejs)
-[Nodemon](https://www.npmjs.com/package/nodemon)
+* [ExpressJS](https://expressjs.com/)
+* [Mongoose](https://mongoosejs.com/)
+* [ShortId](https://www.npmjs.com/package/shortid)
+* [Bootstrap 5.0](https://getbootstrap.com/)
+* [Ejs](https://www.npmjs.com/package/ejs)
+* [Nodemon](https://www.npmjs.com/package/nodemon)
